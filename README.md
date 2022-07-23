@@ -1,9 +1,7 @@
-### Hi there 👋
-
-<!--
-**tiffan-source/tiffan-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center">
+    <h1 align="center">Hi <img width="35" src="./assets/waving.gif">, I'm Anlyou Call me Tiffan</h1>
+    <h4 align="center">a freelance developer an also an engineering students at ALX</h4>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
